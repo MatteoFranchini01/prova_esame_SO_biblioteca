@@ -43,7 +43,7 @@ Feel free to contribute to this project by submitting bug reports or feature req
 
 ## License
 
-This project is licensed under the MIT [license.txt].
+This project is licensed under the MIT.
 
 ---
 
@@ -90,6 +90,6 @@ Sentiti libero di contribuire a questo progetto inviando segnalazioni di bug o r
 
 ## Licenza
 
-Questo progetto è concesso in licenza secondo i termini della APACHE.
+Questo progetto è concesso in licenza secondo i termini della MIT.
 
 --- 
