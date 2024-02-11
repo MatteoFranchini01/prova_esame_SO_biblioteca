@@ -43,7 +43,7 @@ Feel free to contribute to this project by submitting bug reports or feature req
 
 ## License
 
-This project is licensed under the APACHE.
+This project is licensed under the MIT [license.txt].
 
 ---
 
