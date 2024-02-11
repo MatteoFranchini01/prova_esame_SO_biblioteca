@@ -92,6 +92,4 @@ Sentiti libero di contribuire a questo progetto inviando segnalazioni di bug o r
 
 Questo progetto è concesso in licenza secondo i termini della APACHE.
 
----
-
-Feel free to customize the README file further based on additional details or requirements for your specific project.
+--- 
